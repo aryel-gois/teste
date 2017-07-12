@@ -3,4 +3,4 @@ Teste teste
 
 > blockquote
 
-[link](example.com)
+[link](http://www.example.com)
