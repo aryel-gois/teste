@@ -14,8 +14,8 @@
    viewBox="0 0 2048 2048"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 (unknown)"
-   sodipodi:docname="font.svg">
+   sodipodi:docname="font.svg"
+   inkscape:version="0.92.2 (unknown)">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,7 +25,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748737"
      inkscape:cx="845.98816"
-     inkscape:cy="1132.3422"
+     inkscape:cy="1045.1508"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -75,7 +75,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -99,9 +98,10 @@
        style="font-style:normal;font-weight:normal;font-size:2000.56677246px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:50.01416779"
        id="text848">
       <path
-         d="M 1485.0681,1638 1307.2834,1183.7698 H 734.85559 L 559.02453,1638 H 391.00818 L 955.62126,203.99999 H 1095.3093 L 1656.9918,1638 Z M 1255.5109,1034.3133 1089.4482,591.80517 q -32.2357,-84.00818 -66.425,-206.11308 -21.4905,93.77657 -61.5409,206.11308 L 793.46595,1034.3133 Z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:50.01416779"
-         id="path850" />
+         d="m 1474.0648,1638 q -35.1774,-93.1169 -66.2164,-182.0953 -31.0389,-91.0475 -64.1472,-184.1644 H 693.95236 L 563.58873,1638 H 354.59305 Q 437.36361,1410.381 509.78786,1217.9393 582.2121,1023.4286 650.49781,849.61039 720.85279,675.7922 789.13851,518.52814 857.42422,359.1948 931.91773,204 h 184.16447 q 74.4935,155.1948 142.7792,314.52814 68.2857,157.26406 136.5714,331.08225 70.3551,173.81821 142.7793,368.32891 72.4242,192.4417 155.1948,420.0607 z M 1285.7619,1106.1991 Q 1219.5454,926.17316 1153.329,758.56277 1089.1817,588.88312 1018.8267,433.68831 946.40258,588.88312 880.18612,758.56277 816.03894,926.17316 751.89175,1106.1991 Z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:51.73160172"
+         id="path872"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>
