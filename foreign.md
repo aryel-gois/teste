@@ -1,1 +1,1 @@
-File: [foo.md](../blob/test/foo.md)
+File: [foo.md](../../blob/test/foo.md)
